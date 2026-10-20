@@ -4925,6 +4925,7 @@ SpeakStoneSoundLengths_Pack_WarlordsofDraenor = {
     ["39655_completion.ogg"] = 4.48,
     ["39655_description.ogg"] = 24.24,
     ["39655_progress.ogg"] = 2.40,
+    ["39657_completion.ogg"] = 5.04,
     ["39665_completion.ogg"] = 3.68,
     ["39665_description.ogg"] = 15.60,
     ["39665_progress.ogg"] = 1.52,
